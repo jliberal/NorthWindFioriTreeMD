@@ -18,6 +18,14 @@
         "entryPath": "/test-resources"
       },
       "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/NorthWind",
+      "target": {
+        "type": "destination",
+        "name": "NorthWind"
+      },
+      "description": "NorthWind Open oData"
     }
   ],
   "sendWelcomeFileRedirect": true
